@@ -219,6 +219,10 @@ img {
   margin-right: 50px;
 }
 
+.menu-nav .link.current {
+  color: var(--accent-color);
+}
+
 /* заголовки */
 .page-tittle {
   font-family: var(--tittle-font);
