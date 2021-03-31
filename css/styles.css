@@ -219,14 +219,6 @@ img {
   margin-right: 50px;
 }
 
-.menu-nav .link.current {
-  color: var(--accent-color);
-}
-
-.menu-nav .link {
-  color: var(--tittle-color);
-}
-
 /* заголовки */
 .page-tittle {
   font-family: var(--tittle-font);
